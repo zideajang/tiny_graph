@@ -55,3 +55,12 @@ simple_graph.compile("add_1")
 ```python
 res = simple_graph.run(2)
 ```
+
+## 文档说明
+
+### 节点类型
+![image](https://github.com/zideajang/tiny_graph/blob/main/assets/component_type.PNG)
+
+- common 为普通节点
+- aggregate 聚合节点
+- condition 条件节点
